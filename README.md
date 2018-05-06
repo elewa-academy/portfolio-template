@@ -33,8 +33,8 @@ Put a little description of what you learned in the precourse right here.
 
 Projects:
 * [JavaScript reference repository](link to your fork)
-* [Pretty Things gallery](link to your Pretty Things gallery)
-* [Final Project](link to your precourse final project)
+* Pretty Things gallery: [Repo](), [Live]()
+* Final Project: [Repo](), [Live]()
 
 
 
