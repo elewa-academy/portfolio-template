@@ -25,6 +25,7 @@ Fill in this section for your goals.  Why are you learning to code?  What do you
 
 
 [TOP](#my-portfolio)
+
 ___
 
 ## Precourse
